@@ -1,3 +1,36 @@
+#lendsqr-fe-test
+
+This project is a web application for Lendsqr, likely a financial services or lending platform. The application consists of four main pages:
+
+1. Login Page: Allows users to authenticate and access the system.
+
+2. Dashboard: Provides an overview of key metrics and user statistics.
+
+3. User List Page: Displays a list of users (500 records) with search and filter functionality.
+
+4. User Details Page: Shows detailed information for individual users, with the ability to view and edit user data.
+
+Key technical aspects:
+
+- Built using React with TypeScript for type safety and improved developer experience.
+- Utilizes SCSS for advanced styling capabilities.
+- Implements responsive design to ensure usability across desktop and mobile devices.
+- Uses local storage or IndexedDB for client-side data persistence, particularly for user details.
+- Integrates with a mock API to simulate backend interactions for user data.
+
+The project aims to demonstrate proficiency in modern web development practices, including:
+
+- Component-based architecture
+- State management
+- API integration
+- Responsive design
+- Form handling and validation
+- Data persistence
+- TypeScript usage in a React environment
+
+This application would typically be used by administrators or customer service representatives to manage user accounts, view user information, and potentially make changes to user data within the Lendsqr system.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +77,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Screenshots
+
+![Login Page](assets/images/login-page.png)
+![Dashboard](assets/images/dashboard.png)
+
