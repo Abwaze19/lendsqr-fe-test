@@ -80,6 +80,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Screenshots
 
-![Login Page](assets/images/login-page.png)
-![Dashboard](assets/images/dashboard.png)
+![Login Page](assets/login-page.png)
+![Dashboard](assets/dashboard.png)
 
