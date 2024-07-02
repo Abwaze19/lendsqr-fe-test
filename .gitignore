@@ -1,0 +1,14 @@
+node_modules/
+build/
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+package-lock.json
+coverage/
+.eslintcache
+.idea/
+.vscode/
+.env
+styles/*.css
